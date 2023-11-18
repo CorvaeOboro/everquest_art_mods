@@ -12,7 +12,7 @@ https://github.com/CorvaeOboro/everquest_art_mods/assets/6800097/7bd69802-c8e8-4
 
 
 # Install 
-backup then replace zone .s3d files in EverQuest folder with [these]( https://github.com/CorvaeOboro/everquest_art_mods/releases/download/everquest_art_mods_20231117/everquest_art_mods_innothule_grobb_20231117.zip)  .
+backup then replace zone .s3d files in EverQuest folder ( p99 or takp ) with [these]( https://github.com/CorvaeOboro/everquest_art_mods/releases/download/everquest_art_mods_20231117/everquest_art_mods_innothule_grobb_20231117.zip)  . 
 
 notable changes : 
 - water stilled , meat removed 
