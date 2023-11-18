@@ -3,6 +3,14 @@ fan art modifications in everquest classic
 
 [DOWNLOAD MOD]( https://github.com/CorvaeOboro/everquest_art_mods/releases/download/everquest_art_mods_20231117/everquest_art_mods_innothule_grobb_20231117.zip)    |   [VIEW IMAGES]( https://corvaeoboro.github.io/everquest_art_mods/everquest_art_mods_all.htm )   |    [DOWNLOAD SOURCE]( https://github.com/CorvaeOboro/everquest_art_mods/archive/refs/heads/main.zip ) 
 
+
+https://github.com/CorvaeOboro/everquest_art_mods/assets/6800097/8433167e-dbc3-4d2f-841f-3c8948c50f15
+
+
+https://github.com/CorvaeOboro/everquest_art_mods/assets/6800097/7bd69802-c8e8-4a3f-9c47-7196f16421e1
+
+
+
 # Install 
 backup then replace zone .s3d files in EverQuest folder .
 
