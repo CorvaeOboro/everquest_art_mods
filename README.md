@@ -12,7 +12,7 @@ https://github.com/CorvaeOboro/everquest_art_mods/assets/6800097/7bd69802-c8e8-4
 
 
 # Install 
-backup then replace zone .s3d files in EverQuest folder .
+backup then replace zone .s3d files in EverQuest folder with [these]( https://github.com/CorvaeOboro/everquest_art_mods/releases/download/everquest_art_mods_20231117/everquest_art_mods_innothule_grobb_20231117.zip)  .
 
 notable changes : 
 - water stilled , meat removed 
@@ -48,7 +48,7 @@ Hidden
 - Xackery - Quail - [https://github.com/xackery/quail](https://github.com/xackery/quail)
 
 # License
-Everquest is a registered trademark of Daybreak Game Company LLC.  
-this art mod is not associated or affiliated in any way with Daybreak Game Company LLC.
-none of the original textures are included , all have been replaced or removed .
-all textures are free to all , [creative commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) , free to re-distribute , attribution not required
+- Everquest is a registered trademark of Daybreak Game Company LLC.  
+- this art mod is not associated or affiliated in any way with Daybreak Game Company LLC.
+- none of the original textures are included , all have been replaced or removed .
+- all textures are free to all , [creative commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) , free to re-distribute , attribution not required
