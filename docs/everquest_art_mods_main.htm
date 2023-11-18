@@ -1,0 +1,72 @@
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>everquest_art_mods</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #666666;
+}
+-->
+</style></head>
+
+<body>
+
+
+<h1>EVERQUEST CLASSIC ART MODS</h1>
+<p>fan art modifications in everquest classic </p>
+
+<p><a href="https://github.com/CorvaeOboro/everquest_art_mods/releases/download/mod.zip">DOWNLOAD MOD</a>    |   <a href="https://github.com/CorvaeOboro/everquest_art_mods#installation--patching">VIEW IMAGES</a>   |    <a href="https://github.com/CorvaeOboro/everquest_art_mods/archive/refs/heads/main.zip">DOWNLOAD SOURCE</a> </p>
+<br>
+<p><img alt="everquest_art_mod_unreal_20231117" src="https://raw.githubusercontent.com/CorvaeOboro/everquest_art_mods/master/docs/everquest_art_mod_unreal_20231117.gif?raw=true" width="800" title="everquest_art_mod_unreal_20231117" /></p>
+
+<h1>Install</h1>
+<p>backup then replace zone .s3d files in EverQuest folder .</p>
+<br>
+<p>notable changes : 
+- water stilled , meat removed 
+- writing altered to Trollish from TrollHunters by Guillermo del Toro</p>
+
+<h1>Process</h1>
+<p>Import/Export
+- export textures from zones .s3d files using EQZIp 
+- export mesh as obj using S3D Zone Exporter ( includes instanced objects (some differences) )
+- import textures into .s3d files using EQZIp</p>
+<p>153 textures synthesized , 49 removed , 25 hidden
+- upscale ( swinir ) 
+- paintover + photo collage + filterforge
+- stable diffusion ( controlnet + asymmetric tiling ) 
+- adobe generative fill ( inpainting fixes )</p>
+<p>Texture Format<br />
+- using texconv in python to convert the PSD to DDS , then renamed to BMP to match the existing files ( importing without auto dds conversion as DXT1 , for mipmap support , and flipping vertically )
+- textures with opacity are saved to tga , then imported into EQZIP with the option to convert imports to DDS in the preferences set to 16bit .</p>
+<p>Hidden
+- a number of objects have been hidden by changing their material to transparent and texture set to zero opacity . 
+- using the <a href="https://docs.eqemu.io/server/zones/customizing-zones/wld-editor-suite/#instructions_1">WLD Suite Transparentifier</a>
+- hidden objects : meat , butcherblock rock , chain hook , metal spheres , throne grunge</p>
+
+
+<h1>Thanks</h1>
+<ul>
+<li>many thanks to everquest community creating emulators , tools , and content !</li>
+<li>Shendare - EQZip - <a href="https://github.com/Shendare/EQZip">https://github.com/Shendare/EQZip</a></li>
+<li>Zaela - WLD Suite - <a href="https://github.com/Zaela">https://github.com/Zaela</a></li>
+<li>EQemu - Wiki + Tools <a href="http://www.eqemulator.org/">http://www.eqemulator.org/</a></li>
+<li>Xackery - Quail - <a href="https://github.com/xackery/quail">https://github.com/xackery/quail</a></li>
+</ul>
+
+
+<h1>License</h1>
+<p>Everquest is a registered trademark of Daybreak Game Company LLC.<br />
+<br>this art mod is not associated or affiliated in any way with Daybreak Game Company LLC.
+<br>none of the original textures are included , all have been replaced or removed .
+<br>all textures are free to all , <a href="https://creativecommons.org/publicdomain/zero/1.0/">creative commons CC0</a> , free to re-distribute , attribution not required</p>
+
+
+
+
+</body>
+</html>
