@@ -5,16 +5,18 @@ fan art modifications in everquest classic
 
 # Install 
 backup then replace zone .s3d files in EverQuest folder ( p99 and quarm tested ) . 
-![everquest_art_mods_header_innothulegrobb](https://raw.githubusercontent.com/CorvaeOboro/everquest_art_mods/master/docs/everquest_art_mods_header_innothule_grobb.gif?raw=true "everquest_art_mods_header_innothulegrobb")
+
+# Innothule + Grobb 
+![everquest_art_mods_header_innothulegrobb](https://raw.githubusercontent.com/CorvaeOboro/everquest_art_mods/master/docs/everquest_art_mods_header_innothule_grobb.jpg?raw=true "everquest_art_mods_header_innothulegrobb")
 
 
 ![everquest_art_mods_unreal_render_gif](https://raw.githubusercontent.com/CorvaeOboro/everquest_art_mods/master/docs/everquest_art_mod_unreal_20231117.gif?raw=true "everquest_art_mods_unreal_render_gif")
 
 
-https://github.com/CorvaeOboro/everquest_art_mods/assets/6800097/8433167e-dbc3-4d2f-841f-3c8948c50f15
+https://github.com/CorvaeOboro/everquest_art_mods/assets/6800097/97151377-990b-433a-a888-f2e495b26c21
 
 
-https://github.com/CorvaeOboro/everquest_art_mods/assets/6800097/7bd69802-c8e8-4a3f-9c47-7196f16421e1
+https://github.com/CorvaeOboro/everquest_art_mods/assets/6800097/27690ab9-f65f-475f-a418-1acd7d2e9605
 
 
 # Notable changes 
